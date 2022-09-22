@@ -2,7 +2,6 @@
 # Script criado com o intuito de remover o KEA quando a tarefa de remoção
 # não funciona.
 # Utiliza o msiexec para realizar a remoção através de GUID
-#
 #########################################################################
 
 
