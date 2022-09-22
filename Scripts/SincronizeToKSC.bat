@@ -1,4 +1,5 @@
 ## Script to syncronize devices that doesnt are listening to your KSC
+## Script para sincronizar os dispositivos que não estão escutando o seu KSC
 
 ###x86 Version
 start cmd /c ""C:\Program Files (x86)\Kaspersky Lab\NetworkAgent\klmover.exe"" -address {INSERT_KSCorGATEWAY_ID}
@@ -9,3 +10,4 @@ start cmd /c ""C:\Program Files (x86)\Kaspersky Lab\NetworkAgent\klnagchk.exe"" 
 start cmd /c ""C:\Program Files\Kaspersky Lab\NetworkAgent\klmover.exe"" -address {INSERT_KSCorGATEWAY_ID}
 timeout 5
 start cmd /c ""C:\Program Files\Kaspersky Lab\NetworkAgent\klnagchk.exe"" -sendhb
+

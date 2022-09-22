@@ -1,3 +1,6 @@
+## Script to syncronize devices and start network agent that doesnt are listening to your KSC
+## Script para sincronizar os dispositivos e iniciar o networka agent que não estão escutando o seu KSC
+
 net start klnagent
 
 ## Script to syncronize devices that doesnt are listening to your KSC
