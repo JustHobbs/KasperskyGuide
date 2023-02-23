@@ -39,3 +39,4 @@ Após finalizar a instalação utilize do seguinte comando para iniciar o script
 cd /opt/kaspersky/kesl/bin/
 ./kesl-setup.pl
 ```
+Aceite o EULA e os termos de uso do Kaspersky Security Network (KSN) e em seguida configure o usuário que terá o papel de administrador do endpoint no dispositivo
