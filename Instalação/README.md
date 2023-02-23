@@ -1,11 +1,11 @@
 # Indice
 [(Debian) Instalação do Kaspersky em dispositivos Debian](https://github.com/JustHobbs/KasperskyGuide/tree/Corre%C3%A7%C3%A3o-Dispositivos-Sem-Dados/Instala%C3%A7%C3%A3o#instala%C3%A7%C3%A3o-do-kaspersky-em-dispositivos-debian)
 
-[(Debian) Realizando a verificação do Locale en_US](https://github.com/JustHobbs/KasperskyGuide/tree/Corre%C3%A7%C3%A3o-Dispositivos-Sem-Dados/Instala%C3%A7%C3%A3o#verificando-a-existencia-do-arquivo-locale-en_us)
+- [(Debian) Realizando a verificação do Locale en_US](https://github.com/JustHobbs/KasperskyGuide/tree/Corre%C3%A7%C3%A3o-Dispositivos-Sem-Dados/Instala%C3%A7%C3%A3o#verificando-a-existencia-do-arquivo-locale-en_us)
 
-[(Debian) Realizando a instalação do Endpoint](https://github.com/JustHobbs/KasperskyGuide/tree/Corre%C3%A7%C3%A3o-Dispositivos-Sem-Dados/Instala%C3%A7%C3%A3o#realizando-a-instala%C3%A7%C3%A3o-do-endpoint)
+- [(Debian) Realizando a instalação do Endpoint](https://github.com/JustHobbs/KasperskyGuide/tree/Corre%C3%A7%C3%A3o-Dispositivos-Sem-Dados/Instala%C3%A7%C3%A3o#realizando-a-instala%C3%A7%C3%A3o-do-endpoint)
 
-[(Debian) Realizando a instalação do Agente de rede](https://github.com/JustHobbs/KasperskyGuide/tree/Corre%C3%A7%C3%A3o-Dispositivos-Sem-Dados/Instala%C3%A7%C3%A3o#realizando-a-instala%C3%A7%C3%A3o-do-agente-de-rede)
+- [(Debian) Realizando a instalação do Agente de rede](https://github.com/JustHobbs/KasperskyGuide/tree/Corre%C3%A7%C3%A3o-Dispositivos-Sem-Dados/Instala%C3%A7%C3%A3o#realizando-a-instala%C3%A7%C3%A3o-do-agente-de-rede)
 
 
 
