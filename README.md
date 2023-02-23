@@ -4,7 +4,7 @@ Além de prover segurança ao seu ambiente o antivírus Kaspersky pode ser utili
 
 ## Instalação
 
-Os arquivos para a instalação do mesmo 
+Os arquivos para a instalação do mesmo podem ser obtidos através do [Site da Kaspersky](https://www.kaspersky.com/small-to-medium-business-security/downloads/endpoint?icid=gl_sup-site_trd_ona_oth__onl_b2b_klsupport_tri-dl____kes___) mas a instalação da sua versão no Linux pode ser um pouco complicada de inicio então aqui está um guide de instalação
 
 # Alguns scripts para ajudar no dia-a-dia
 
