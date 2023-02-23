@@ -86,3 +86,31 @@ dpkg -i klnagent(versão).deb
 ```bash
 service klnagent status
 ```
+.
+.
+.
+.
+
+# Instalação do Kaspersky em dispositivos CentOS
+## Realizando a instalação do Endpoint
+### Realize o download do kesl.rpm na página de instalação da Kaspersky
+
+1. Utilize do comando rpm -i para instalar o kaspersky a partir do arquivo na máquina
+
+```bash
+rpm -i kesl(versão).deb
+```
+
+2. Após finalizar a instalação utilize do seguinte comando para iniciar o script de post install
+```bash
+./opt/kaspersky/kesl/bin/kesl-setup.pl
+```
+3. Aceite o EULA e os termos de uso do Kaspersky Security Network (KSN) digitando **Y** e apertando **Enter** para continuar e em seguida configure o usuário que terá o papel de administrador do endpoint no dispositivo
+
+4. Configure o Update Source do endpoint e aperte **Enter** para continuar (por padrão KLServers)
+
+5. Configure o proxy (caso exista) e em seguida instale o banco de dados mais recente apertando **Enter**
+
+6. Habilite as atualizações automáticas e aperte **Enter** para continuar
+
+7. Coloque a Key default (ou caso deseje já aplicar sua licença do kaspersky no dispositivo insira a mesma) e aperte **Enter** para continuar
