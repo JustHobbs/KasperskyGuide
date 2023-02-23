@@ -18,7 +18,9 @@ placeholder guide bloqueio de url
 
 É notável que nesta tela existam três subseções: Web Control settings, Message template settings e Advanced settings.
 >Web Control Settings - Área aonde será realizado o gerenciamento das páginas ou conteúdos web.
+
 >Message template - Área aonde é possível padronizar mensagens de aviso, bloqueio ou contato ao administrador para aparecer ao usuário.
+
 >Advanced settings - Área aonde é possível verificar o log de páginas permitidas (ao ativar essa função, todo o tráfego terá que ser descriptografado o que acarretará na performance da máquina).
 
 Para a requisição em questão usaremos a área de Web Control Settings.
