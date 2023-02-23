@@ -13,7 +13,7 @@
 
 - [(CentOS) Realizando a instalação do Agente de rede](https://github.com/JustHobbs/KasperskyGuide/blob/Corre%C3%A7%C3%A3o-Dispositivos-Sem-Dados/Instala%C3%A7%C3%A3o/README.md#realizando-a-instala%C3%A7%C3%A3o-do-agente-de-rede-1)
 
-[Verificando conexão com o Servidor de Administração](https://github.com/JustHobbs/KasperskyGuide/blob/Corre%C3%A7%C3%A3o-Dispositivos-Sem-Dados/Instala%C3%A7%C3%A3o/README.md#verificando-comunica%C3%A7%C3%A3o-com-o-servidor-de-administra%C3%A7%C3%A3o)
+[Verificando comunicação com o servidor de administração](https://github.com/JustHobbs/KasperskyGuide/blob/Corre%C3%A7%C3%A3o-Dispositivos-Sem-Dados/Instala%C3%A7%C3%A3o/README.md#verificando-comunica%C3%A7%C3%A3o-com-o-servidor-de-administra%C3%A7%C3%A3o)
 
 
 
