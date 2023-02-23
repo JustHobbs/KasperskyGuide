@@ -38,7 +38,7 @@ Após finalizar a instalação utilize do seguinte comando para iniciar o script
 ```bash
 ./opt/kaspersky/kesl/bin/kesl-setup.pl
 ```
-Aceite o EULA e os termos de uso do Kaspersky Security Network (KSN) digitando *Y* e apertando *Enter* para continuar e em seguida configure o usuário que terá o papel de administrador do endpoint no dispositivo
+Aceite o EULA e os termos de uso do Kaspersky Security Network (KSN) digitando **Y** e apertando **Enter** para continuar e em seguida configure o usuário que terá o papel de administrador do endpoint no dispositivo
 
 Se tudo foi especificado corretamente a mensagem "This setup script completed successfully" será mostrada na tela
 
@@ -56,6 +56,21 @@ Após finalizar a instalação utilize do seguinte comando para iniciar o script
 ./opt/kaspersky/klnagent/lib/bin/setup/postinstall.pl
 ```
 
-Aceite o EULA digitando *Y* e apertando *Enter* para continuar
+Aceite o EULA digitando **Y** e apertando **Enter** para continuar
 
 Aponte o DNS ou o IP estático do servidor de administração KSC da rede
+
+Aponte ou mantenha a porta padrão de conexão ao Servidor de administração
+
+Aponte ou mantenha padrão a porta de SSL do Servidor de administração
+
+Confirme se deseja ou não utilizar a SSL Encryption e aperte **Enter** para confirmar 
+
+Confirme se deseja utilizar o Agente de Rede como Connection Gateway e aperte **Enter** para confirmar
+
+Se tudo foi especificado corretamente a mensagem "Kaspersky Network Agent is installed" será mostrada na tela
+
+Verifique se o agente de rede foi iniciado com o seguinte comando
+```bash
+service klnagent status
+```
