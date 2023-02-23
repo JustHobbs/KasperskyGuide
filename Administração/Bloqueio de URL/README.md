@@ -22,6 +22,7 @@ Para a requisição em questão usaremos a área de Web Control Settings.
 5. Aperte em +Add para configurar uma nova regra e Web Control
 
 6. Configure um nome para a regra
+
 ![alt text](https://github.com/JustHobbs/KasperskyGuide/blob/Corre%C3%A7%C3%A3o-Dispositivos-Sem-Dados/Administra%C3%A7%C3%A3o/Bloqueio%20de%20URL/imagem03.png)
 
 7. Em seguida você perceberá 5 abas que aparecem na regra. Irei explicar cada uma delas:
