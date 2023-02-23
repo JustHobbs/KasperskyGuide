@@ -42,6 +42,8 @@ Aceite o EULA e os termos de uso do Kaspersky Security Network (KSN) e em seguid
 
 Se tudo foi especificado corretamente a mensagem "This setup script completed successfully" será mostrada na tela
 
+#
+#
 ## Realizando a instalação do Agente de Rede
 ### Realize o download do klnagent.deb na página de instalação da Kaspersky
 Utilize do comando dpkg-i para instalar o Agente de Rede a partir do arquivo na máquina
