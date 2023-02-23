@@ -7,6 +7,9 @@
 
 - [(Debian) Realizando a instalação do Agente de rede](https://github.com/JustHobbs/KasperskyGuide/tree/Corre%C3%A7%C3%A3o-Dispositivos-Sem-Dados/Instala%C3%A7%C3%A3o#realizando-a-instala%C3%A7%C3%A3o-do-agente-de-rede)
 
+[(CentOS) Instalação do Kaspersky em dispositivos CentOS](https://github.com/JustHobbs/KasperskyGuide/blob/Corre%C3%A7%C3%A3o-Dispositivos-Sem-Dados/Instala%C3%A7%C3%A3o/README.md#instala%C3%A7%C3%A3o-do-kaspersky-em-dispositivos-centos)
+
+- [(CentOS) Realizando a instalação do Endpoint](https://github.com/JustHobbs/KasperskyGuide/blob/Corre%C3%A7%C3%A3o-Dispositivos-Sem-Dados/Instala%C3%A7%C3%A3o/README.md#realizando-a-instala%C3%A7%C3%A3o-do-endpoint-1)
 
 
 
@@ -93,7 +96,7 @@ service klnagent status
 
 # Instalação do Kaspersky em dispositivos CentOS
 ## Realizando a instalação do Endpoint
-### Realize o download do kesl.rpm na página de instalação da Kaspersky
+> Realize o download do kesl.rpm na página de instalação da Kaspersky
 
 1. Utilize do comando rpm -i para instalar o kaspersky a partir do arquivo na máquina
 
