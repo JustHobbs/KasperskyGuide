@@ -8,8 +8,9 @@ placeholder guide bloqueio de url
 ![alt text](https://github.com/JustHobbs/KasperskyGuide/blob/Corre%C3%A7%C3%A3o-Dispositivos-Sem-Dados/Administra%C3%A7%C3%A3o/Bloqueio%20de%20URL/imagem02.png)
 3. Ao acessar a janela de gerenciamento da política, você conseguirá encontrar várias seções, cada uma é relativa a uma funcionalidade da política daquele plugin. No caso para realizar o bloqueio de URL's é necessário acessar a parte de Security Controls, em seguida, acessar a parte de Web Control.
 
-> Sobre o Web Control
-> O Controle da Web oferece as seguintes opções:
+>Sobre o Web Control
+
+>O Controle da Web oferece as seguintes opções:
 
 >Economizar tráfego.
 >O tráfego é controlado pela restrição ou bloqueio de downloads de arquivos de multimídia, pela restrição ou bloqueio de acesso de recursos da web que não estão relacionados às atividades de trabalho do usuário.
