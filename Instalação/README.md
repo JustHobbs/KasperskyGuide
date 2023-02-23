@@ -44,6 +44,7 @@ Se tudo foi especificado corretamente a mensagem "This setup script completed su
 
 ## Realizando a instalação do Agente de Rede
 ### Realize o download do klnagent.deb na página de instalação da Kaspersky
+### A instalação do Agente de Rede se faz necessária quando há a necessidade (e licenças) de administrar os endpoints de sua rede através de um Servidor de Administração
 Utilize do comando dpkg-i para instalar o Agente de Rede a partir do arquivo na máquina
 
 ```bash
@@ -56,3 +57,5 @@ Após finalizar a instalação utilize do seguinte comando para iniciar o script
 ```
 
 Aceite o EULA digitando *Y* e apertando *Enter* para continuar
+
+Aponte o DNS ou o IP estático do servidor de administração KSC da rede
