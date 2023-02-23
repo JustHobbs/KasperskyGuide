@@ -117,3 +117,36 @@ rpm -i kesl(versão).deb
 6. Habilite as atualizações automáticas e aperte **Enter** para continuar
 
 7. Coloque a Key default (ou caso deseje já aplicar sua licença do kaspersky no dispositivo insira a mesma) e aperte **Enter** para continuar
+
+## Realizando a instalação do Agente de Rede
+### Realize o download do klnagent.deb na página de instalação da Kaspersky
+> A instalação do Agente de Rede acontece quando há a necessidade (e licenças) de administrar os endpoints de sua rede através de um Servidor de Administração
+1. Utilize do comando rpm -i para instalar o Agente de Rede a partir do arquivo na máquina
+
+```bash
+rpm -i klnagent(versão).deb
+```
+
+2. Após finalizar a instalação utilize do seguinte comando para iniciar o script de post install
+```bash
+./opt/kaspersky/klnagent/lib/bin/setup/postinstall.pl
+```
+
+3. Aceite o EULA digitando **Y** e apertando **Enter** para continuar
+
+4. Aponte o DNS ou o IP estático do servidor de administração KSC da rede
+
+5. Aponte ou mantenha a porta padrão de conexão ao Servidor de administração
+
+6. Aponte ou mantenha padrão a porta de SSL do Servidor de administração
+
+7. Confirme se deseja ou não utilizar a SSL Encryption e aperte **Enter** para confirmar 
+
+8. Confirme se deseja utilizar o Agente de Rede como Connection Gateway e aperte **Enter** para confirmar
+
+# Verificando comunicação com o servidor de administração
+> A fim de verificar se o seu agente de rede está se comunicando corretamente com o servidor de administração execute o comando a baio
+```bash
+./opt/kaspersky/klnagent64/bin/klnagchk
+```
+
