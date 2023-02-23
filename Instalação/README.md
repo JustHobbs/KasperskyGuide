@@ -119,7 +119,7 @@ rpm -i kesl(versão).deb
 7. Coloque a Key default (ou caso deseje já aplicar sua licença do kaspersky no dispositivo insira a mesma) e aperte **Enter** para continuar
 
 ## Realizando a instalação do Agente de Rede
-### Realize o download do klnagent.deb na página de instalação da Kaspersky
+### Realize o download do klnagent.rpm na página de instalação da Kaspersky
 > A instalação do Agente de Rede acontece quando há a necessidade (e licenças) de administrar os endpoints de sua rede através de um Servidor de Administração
 1. Utilize do comando rpm -i para instalar o Agente de Rede a partir do arquivo na máquina
 
