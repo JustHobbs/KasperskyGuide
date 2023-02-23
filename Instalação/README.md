@@ -45,32 +45,32 @@ Se tudo foi especificado corretamente a mensagem "This setup script completed su
 ## Realizando a instalação do Agente de Rede
 ### Realize o download do klnagent.deb na página de instalação da Kaspersky
 ### A instalação do Agente de Rede acontece quando há a necessidade (e licenças) de administrar os endpoints de sua rede através de um Servidor de Administração
-Utilize do comando dpkg-i para instalar o Agente de Rede a partir do arquivo na máquina
+1. Utilize do comando dpkg-i para instalar o Agente de Rede a partir do arquivo na máquina
 
 ```bash
 dpkg -i klnagent(versão).deb
 ```
 
-Após finalizar a instalação utilize do seguinte comando para iniciar o script de post install
+2. Após finalizar a instalação utilize do seguinte comando para iniciar o script de post install
 ```bash
 ./opt/kaspersky/klnagent/lib/bin/setup/postinstall.pl
 ```
 
-Aceite o EULA digitando **Y** e apertando **Enter** para continuar
+3. Aceite o EULA digitando **Y** e apertando **Enter** para continuar
 
-Aponte o DNS ou o IP estático do servidor de administração KSC da rede
+4. Aponte o DNS ou o IP estático do servidor de administração KSC da rede
 
-Aponte ou mantenha a porta padrão de conexão ao Servidor de administração
+5. Aponte ou mantenha a porta padrão de conexão ao Servidor de administração
 
-Aponte ou mantenha padrão a porta de SSL do Servidor de administração
+6. Aponte ou mantenha padrão a porta de SSL do Servidor de administração
 
-Confirme se deseja ou não utilizar a SSL Encryption e aperte **Enter** para confirmar 
+7. Confirme se deseja ou não utilizar a SSL Encryption e aperte **Enter** para confirmar 
 
-Confirme se deseja utilizar o Agente de Rede como Connection Gateway e aperte **Enter** para confirmar
+8. Confirme se deseja utilizar o Agente de Rede como Connection Gateway e aperte **Enter** para confirmar
 
-Se tudo foi especificado corretamente a mensagem "Kaspersky Network Agent is installed" será mostrada na tela
+9. Se tudo foi especificado corretamente a mensagem "Kaspersky Network Agent is installed" será mostrada na tela
 
-Verifique se o agente de rede foi iniciado com o seguinte comando
+10. Verifique se o agente de rede foi iniciado com o seguinte comando
 ```bash
 service klnagent status
 ```
