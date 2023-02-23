@@ -44,7 +44,7 @@ dpkg -i kesl(versão).deb
 
 ## Realizando a instalação do Agente de Rede
 ### Realize o download do klnagent.deb na página de instalação da Kaspersky
-### A instalação do Agente de Rede acontece quando há a necessidade (e licenças) de administrar os endpoints de sua rede através de um Servidor de Administração
+> A instalação do Agente de Rede acontece quando há a necessidade (e licenças) de administrar os endpoints de sua rede através de um Servidor de Administração
 1. Utilize do comando dpkg-i para instalar o Agente de Rede a partir do arquivo na máquina
 
 ```bash
