@@ -1,6 +1,6 @@
 # Kaspersky 
 
-Além de prover segurança ao seu ambiente o antivírus Kaspersky pode ser utilizado para outras funções, tais como sua função de WSUS, prover acesso remoto nas máquinas e até gerencia de atualizações e vulnerabilidade.
+Além de prover segurança ao seu ambiente o antivírus Kaspersky pode ser utilizado para outras funções, tais como sua função de WSUS, prover acesso remoto nas máquinas e até gerência de atualizações e vulnerabilidade.
 
 ## Instalação
 
