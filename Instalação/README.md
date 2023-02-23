@@ -1,7 +1,7 @@
 # Instalação do Kaspersky em dispositivos Debian
 
 ## Verificando a existencia do arquivo locale en_US
-### Essa verificação é importante pois ao tentar realizar a instalação sem um locale presente na lista de instalação retorna o erro "xx_XX is not a valid locale"
+> Essa verificação é importante pois ao tentar realizar a instalação sem um locale presente na lista de instalação retorna o erro "xx_XX is not a valid locale"
 
 1. Utilize do comando locale para avaliar se o dispositivo ja o possui
 
