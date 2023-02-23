@@ -22,6 +22,7 @@ placeholder guide bloqueio de url
 >Advanced settings - Área aonde é possível verificar o log de páginas permitidas (ao ativar essa função, todo o tráfego terá que ser descriptografado o que acarretará na performance da máquina).
 
 Para a requisição em questão usaremos a área de Web Control Settings.
+
 5. Aperte em +Add para configurar uma nova regra e Web Control
 
 6. Configure um nome para a regra
