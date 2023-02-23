@@ -25,3 +25,17 @@ Utilize do comando a seguir para executar a instalação do novo local
 ```bash
 locale-gen
 ```
+## Realizando a instalação do Endpoint
+### Realize o download do kesl.deb na página de instalação da Kaspersky
+
+Utilize do comando dpkg-i para instalar o kaspersky a partir do arquivo na máquina
+
+```bash
+dpkg -i kesl(versão).deb
+```
+
+Após finalizar a instalação utilize do seguinte comando para iniciar o script de post install
+```bash
+cd /opt/kaspersky/kesl/bin/
+./kesl-setup.pl
+```
