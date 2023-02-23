@@ -24,4 +24,4 @@ Utilize do comando a seguir para executar a instalação do novo local
 
 ```bash
 locale-gen
-´´´
+```
