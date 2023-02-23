@@ -5,12 +5,15 @@ placeholder guide bloqueio de url
 1. Acesse a parte de gerenciamento de políticas e selecione a política desejada no seu KSC
 
 ![alt text](https://github.com/JustHobbs/KasperskyGuide/blob/Corre%C3%A7%C3%A3o-Dispositivos-Sem-Dados/Administra%C3%A7%C3%A3o/Bloqueio%20de%20URL/imagem01.png)
+
 2. Aperte na política com o botão direito e em seguida aperte em propriedades para abrir a janela de gerenciamento da mesma
 
 ![alt text](https://github.com/JustHobbs/KasperskyGuide/blob/Corre%C3%A7%C3%A3o-Dispositivos-Sem-Dados/Administra%C3%A7%C3%A3o/Bloqueio%20de%20URL/imagem02.png)
+
 3. Ao acessar a janela de gerenciamento da política, você conseguirá encontrar várias seções, cada uma é relativa a uma funcionalidade da política daquele plugin. No caso para realizar o bloqueio de URL's é necessário acessar a parte de Security Controls, em seguida, acessar a parte de Web Control.
 
 4. Seguiremos o processo para realizar o bloqueio de uma URL desejada. Ao acessar a parte de Web Control você vai se deparar com uma tela parecida com essa:
+
 ![alt text](https://github.com/JustHobbs/KasperskyGuide/blob/Corre%C3%A7%C3%A3o-Dispositivos-Sem-Dados/Administra%C3%A7%C3%A3o/Bloqueio%20de%20URL/imagem1.png)
 
 É notável que nesta tela existam três subseções: Web Control settings, Message template settings e Advanced settings.
@@ -37,3 +40,6 @@ Para a requisição em questão usaremos a área de Web Control Settings.
 - Rule schedule 
 > Nessa subseção é possível definir o horário que esta regra será aplicada (Por default: Always
 
+## Exemplo de política de bloqueio a URL de sites pornográficos específicos:
+
+![alt text](https://github.com/JustHobbs/KasperskyGuide/blob/Corre%C3%A7%C3%A3o-Dispositivos-Sem-Dados/Administra%C3%A7%C3%A3o/Bloqueio%20de%20URL/imagem04.png)
