@@ -150,7 +150,7 @@ rpm -i klnagent(versão).deb
 8. Confirme se deseja utilizar o Agente de Rede como Connection Gateway e aperte **Enter** para confirmar
 
 # Verificando comunicação com o servidor de administração
-> A fim de verificar se o seu agente de rede está se comunicando corretamente com o servidor de administração execute o comando a baio
+> A fim de verificar se o seu agente de rede está se comunicando corretamente com o servidor de administração execute o comando a baixo
 ```bash
 ./opt/kaspersky/klnagent64/bin/klnagchk
 ```
